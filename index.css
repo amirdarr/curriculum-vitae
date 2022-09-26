@@ -1,6 +1,21 @@
 
 
-body{background-color: #cbe4ee; }
-/* #EEE3CB */
-img{width: 200px; height: 200px ;
-}
+body{background-color: #EEE3CB; }
+
+/* optional colors
+#EEE3CB
+#cbe4ee
+#f7e19d
+#77a5ba */
+
+h1 {color:#0c45b6; font-family: cursive; font-size: 1.5rem; text-decoration-line: underline;}
+
+h2 {color:#0c45b6; font-family: cursive; font-size: 1.25rem;}
+
+table{cellspacing: "40px"; font-family: cursive; font-size: 1rem; }
+
+hr{border-top: 7px; color: black; border-style: dotted none none; width: 8%;}
+
+img{border-color: #0c45b6; border-style: solid; border-radius: 10rem; width: 200px; height: 200px ;}
+
+#links{text-decoration-line: underline;}
